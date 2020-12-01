@@ -1,0 +1,9 @@
+C:\Users\Tugrul\RiderProjects\CiceksepetiBasket\Basket.Data\bin\Debug\netcoreapp3.1\Basket.Data.deps.json
+C:\Users\Tugrul\RiderProjects\CiceksepetiBasket\Basket.Data\bin\Debug\netcoreapp3.1\Basket.Data.dll
+C:\Users\Tugrul\RiderProjects\CiceksepetiBasket\Basket.Data\bin\Debug\netcoreapp3.1\Basket.Data.pdb
+C:\Users\Tugrul\RiderProjects\CiceksepetiBasket\Basket.Data\obj\Debug\netcoreapp3.1\Basket.Data.csprojAssemblyReference.cache
+C:\Users\Tugrul\RiderProjects\CiceksepetiBasket\Basket.Data\obj\Debug\netcoreapp3.1\Basket.Data.AssemblyInfoInputs.cache
+C:\Users\Tugrul\RiderProjects\CiceksepetiBasket\Basket.Data\obj\Debug\netcoreapp3.1\Basket.Data.AssemblyInfo.cs
+C:\Users\Tugrul\RiderProjects\CiceksepetiBasket\Basket.Data\obj\Debug\netcoreapp3.1\Basket.Data.csproj.CoreCompileInputs.cache
+C:\Users\Tugrul\RiderProjects\CiceksepetiBasket\Basket.Data\obj\Debug\netcoreapp3.1\Basket.Data.dll
+C:\Users\Tugrul\RiderProjects\CiceksepetiBasket\Basket.Data\obj\Debug\netcoreapp3.1\Basket.Data.pdb

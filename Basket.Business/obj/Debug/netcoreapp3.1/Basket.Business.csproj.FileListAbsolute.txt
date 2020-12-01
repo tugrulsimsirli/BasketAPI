@@ -1,0 +1,14 @@
+C:\Users\Tugrul\RiderProjects\CiceksepetiBasket\Basket.Business\bin\Debug\netcoreapp3.1\Basket.Business.deps.json
+C:\Users\Tugrul\RiderProjects\CiceksepetiBasket\Basket.Business\bin\Debug\netcoreapp3.1\Basket.Business.dll
+C:\Users\Tugrul\RiderProjects\CiceksepetiBasket\Basket.Business\bin\Debug\netcoreapp3.1\Basket.Business.pdb
+C:\Users\Tugrul\RiderProjects\CiceksepetiBasket\Basket.Business\bin\Debug\netcoreapp3.1\Basket.Common.dll
+C:\Users\Tugrul\RiderProjects\CiceksepetiBasket\Basket.Business\bin\Debug\netcoreapp3.1\Basket.Data.dll
+C:\Users\Tugrul\RiderProjects\CiceksepetiBasket\Basket.Business\bin\Debug\netcoreapp3.1\Basket.Common.pdb
+C:\Users\Tugrul\RiderProjects\CiceksepetiBasket\Basket.Business\bin\Debug\netcoreapp3.1\Basket.Data.pdb
+C:\Users\Tugrul\RiderProjects\CiceksepetiBasket\Basket.Business\obj\Debug\netcoreapp3.1\Basket.Business.csprojAssemblyReference.cache
+C:\Users\Tugrul\RiderProjects\CiceksepetiBasket\Basket.Business\obj\Debug\netcoreapp3.1\Basket.Business.AssemblyInfoInputs.cache
+C:\Users\Tugrul\RiderProjects\CiceksepetiBasket\Basket.Business\obj\Debug\netcoreapp3.1\Basket.Business.AssemblyInfo.cs
+C:\Users\Tugrul\RiderProjects\CiceksepetiBasket\Basket.Business\obj\Debug\netcoreapp3.1\Basket.Business.csproj.CoreCompileInputs.cache
+C:\Users\Tugrul\RiderProjects\CiceksepetiBasket\Basket.Business\obj\Debug\netcoreapp3.1\Basket.Business.csproj.CopyComplete
+C:\Users\Tugrul\RiderProjects\CiceksepetiBasket\Basket.Business\obj\Debug\netcoreapp3.1\Basket.Business.dll
+C:\Users\Tugrul\RiderProjects\CiceksepetiBasket\Basket.Business\obj\Debug\netcoreapp3.1\Basket.Business.pdb
